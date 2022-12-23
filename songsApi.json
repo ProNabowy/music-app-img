@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1,
+        "songName": "Bad Guy",
+        "songDescrption": "Listen to 'bad guy' from the debut album 'WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?', out now",
+        "singer": "Billie Eilish",
+        "sm-img": "https://raw.githubusercontent.com/ProNabowy/music-app-img/main/bille-eilish-removebg-preview.webp",
+        "poster": "https://raw.githubusercontent.com/ProNabowy/music-app-img/main/bille-eilish-removebg-preview.webp",
+        "url": ""
+    },
+    {
+        "id": 2,
+        "songName": "Qveen Herby - Sugar Daddy",
+        "songDescrption": "He love he give me all his money That Gucci Prada comfy My sugar daddy",
+        "singer": "Qveen Herby",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/suger-daddy_11zon.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Qveen-Herby.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 3,
+        "songName": "Adele - Hello",
+        "songDescrption": "Commissioner: Phil Lee Production Company: Believe Media/Sons of Manual/Metafilms",
+        "singer": "Adele",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/adle-hello.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Adele-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 4,
+        "songName": "When We Were Young",
+        "songDescrption": "Associated  Performer: Adele Adkins  Associated  Performer: Tobias Jesso, Jr.",
+        "singer": "Adele",
+        "sm-img": "",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Adele-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 5,
+        "songName": "Billie Eilish, Khalid - lovely",
+        "songDescrption": "Directed by Matty Peacock and Taylor Cohen DP: Sing Howe Yam",
+        "singer": "Billie Eilish",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/lovely.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/bille-eilish-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 6,
+        "songName": "AURORA - Runaway",
+        "songDescrption": "I was listening to the ocean I saw a face in the sand",
+        "singer": "AURORA",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Runaway_11zon.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Aurora_-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 7,
+        "songName": "Central Cee - Doja (Directed by Cole Bennett)",
+        "songDescrption": "",
+        "singer": "Lyrical Lemonade",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Central.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Lyrical-Lemonade-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 8,
+        "songName": "Aitch, Ed Sheeran - My G",
+        "songDescrption": "A minimum donation per product sold of £9 to Down’s Syndrome Association. Downs Syndrome Association is a registered charity in England, Wales and Northern Ireland. This is a non-profit product.",
+        "singer": "Aitch",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Ed%20Sheeran.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Aitchjpg-removebg-preview_11zon.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 9,
+        "songName": "Dave - Starlight",
+        "songDescrption": "Produced by SantanAdditional Production by Jo Caleb, Elisa Caleb & Jonny Leslie",
+        "singer": "Santan Dave",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Starlight_11zon.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Santan-Dave-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 10,
+        "songName": "Eminem - Not Afraid",
+        "songDescrption": "Some people may get tired of hearing this song....But not us",
+        "singer": "Eminem",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Afraid.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Eminem-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 11,
+        "songName": "Eminem - Without Me",
+        "songDescrption": "CELEBRATING ONE BILLION VIEWS!!!REMASTERED IN HD!",
+        "singer": "Eminem",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/withoute-me_11zon.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Eminem-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 12,
+        "songName": "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit)",
+        "songDescrption": "Music video by Maroon 5 performing Payphone (Explicit) feat. Wiz Khalifa. © 2012 A&M/Octone Records",
+        "singer": "Maroon",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Maroon.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Maroon-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 13,
+        "songName": "Justin Bieber - Baby ft. Ludacris",
+        "songDescrption": "REMASTERED IN HD! UP TO 4K!Official Music Video for Baby performed by Justin Bieber (ft. Ludacris).",
+        "singer": "Justin Bieber",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Baby%20ft.%20Ludacris.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Justin_Bieber-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 14,
+        "songName": "Ludacris - Act A Fool",
+        "songDescrption": "Official Music Video for Act A Fool performed by Ludacris.",
+        "singer": "Ludacris",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Baby%20ft.%20Ludacris.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Ludacris-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 15,
+        "songName": "Maroon 5 - Girls Like You ft. Cardi B",
+        "songDescrption": "Music video by Maroon 5 performing Girls Like You. © 2018 Interscope Records",
+        "singer": "Maroon 5",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Girls-Like.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Maroon-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 16,
+        "songName": "Justin Bieber - Beauty And A Beat ft. Nicki Minaj",
+        "songDescrption": "CELEBRATING ONE BILLION VIEWS!!!REMASTERED IN HD!",
+        "singer": "Justin Bieber",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Beauty.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Justin_Bieber-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 17,
+        "songName": "Rema, Selena Gomez - Calm Down",
+        "songDescrption": "Music video by Rema, Selena Gomez performing Calm Down. © 2022 Mavin Records / Jonzing World",
+        "singer": "Selena Gomez",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Calm-Down.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Selena-Gomez-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 18,
+        "songName": "Calvin Harris, Dua Lipa - One Kiss",
+        "songDescrption": "CELEBRATING ONE BILLION VIEWS!!!REMASTERED IN HD!",
+        "singer": "Calvin Harris",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/One-Kiss_11zon.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Eminem-removebg-preview.webp?raw=true",
+        "url": ""
+    }
+    ,{
+        "id": 19,
+        "songName": "Dua Lipa - New Rules",
+        "songDescrption": "Taken from her self-titled debut studio album released in 2017, which featured the hit singles 'Be The One', 'IDGAF', 'Hotter Than Hell' & 'New Rules'",
+        "singer": "Dua Lipa",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/New-Rules_11zon.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Dua-Lipa-removebg-preview.webp?raw=true",
+        "url": ""
+    },
+    {
+        "id": 20,
+        "songName": "Selena Gomez, Camilo - 999",
+        "songDescrption": "Escucha “999”, disponible ya. // Listen to “999”, out now.",
+        "singer": "Selena Gomez",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Camilo.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Selena-Gomez-removebg-preview.webp?raw=true",
+        "url": ""
+    }
+    ,{
+        "id": 21,
+        "songName": "BERWYN - WRONG ONES ",
+        "songDescrption": "BERWYN - WRONG ONES",
+        "singer": "BERWYN",
+        "sm-img": "",
+        "poster": "",
+        "url": ""
+    }
+    ,{
+        "id": 22,
+        "songName": "Selena Gomez - Boyfriend ",
+        "songDescrption": "I want a boyfriend But I just keep hitting dead ends",
+        "singer": "Selena Gomez",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Boyfriend.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Selena-Gomez-removebg-preview.webp?raw=true",
+        "url": ""
+    }
+    ,{
+        "id": 23,
+        "songName": "The Chainsmokers - Don't Let Me Down",
+        "songDescrption": "Official music video for ”Don't Let Me Down” by The Chainsmokers",
+        "singer": "Chainsmokers",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Dont-Let-Me-Down.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/chainsmokers-removebg-preview.webp?raw=true",
+        "url": ""
+    },{
+        "id": 24,
+        "songName": "Zara Larsson - Lush Life",
+        "songDescrption": "I live my day as if it was the last Live my day as if there was no past",
+        "singer": "Zara Larsson",
+        "sm-img": "",
+        "poster": "",
+        "url": ""
+    },
+    {
+        "id": 25,
+        "songName": "Selena Gomez - Dámelo To",
+        "songDescrption": "Animation by: Carlos Reyes, Michelle Renslo, Arnold Bermejo",
+        "singer": "Selena Gomez",
+        "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/D%C3%A1melo.webp?raw=true",
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Selena-Gomez-removebg-preview.webp?raw=true",
+        "url": ""
+    }
+]
