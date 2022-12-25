@@ -6,7 +6,7 @@
         "singer": "Billie Eilish",
         "sm-img": "https://raw.githubusercontent.com/ProNabowy/music-app-img/main/bille-eilish-removebg-preview.webp",
         "poster": "https://raw.githubusercontent.com/ProNabowy/music-app-img/main/bille-eilish-removebg-preview.webp",
-        "url": ""
+        "url": "./songs/Bad Guy.mp3"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "singer": "Qveen Herby",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/suger-daddy_11zon.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Qveen-Herby-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Sugar Daddy.mp3"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "singer": "Adele",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/adle-hello.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Adele-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Hello.mp3"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "singer": "Adele",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Adele-removebg-preview.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Adele-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/When We Were Young.mp3"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "singer": "Billie Eilish",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/lovely.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/bille-eilish-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/lovely.mp3"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "singer": "AURORA",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Runaway_11zon.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Aurora_-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Runaway.mp3"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "singer": "Lyrical Lemonade",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Central.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Lyrical-Lemonade-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Central Cee.mp3"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "singer": "Aitch",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Ed%20Sheeran.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Aitch-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Ed Sheeran.mp3"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "singer": "Santan Dave",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Starlight_11zon.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Santan-Dave-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Starlight.mp3"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "singer": "Eminem",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Afraid.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Eminem-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Not Afraid.mp3"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "singer": "Eminem",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/withoute-me_11zon.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Eminem-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Without Me.mp3"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "singer": "Maroon",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Maroon.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Maroon-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Payphone.mp3"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "singer": "Justin Bieber",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Baby%20ft.%20Ludacris.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Justin_Bieber-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Baby ft.mp3"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "singer": "Ludacris",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Baby%20ft.%20Ludacris.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Ludacris-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Act A Fool.mp3"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "singer": "Maroon 5",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Girls-Like.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Maroon-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Girls Like You ft.mp3"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "singer": "Justin Bieber",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Beauty.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Justin_Bieber-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Beauty And A Beat.mp3"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "singer": "Selena Gomez",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Calm-Down.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Selena-Gomez-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Calm Down.mp3"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "singer": "Calvin Harris",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/One-Kiss_11zon.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Eminem-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Dua Lipa.mp3"
     }
     ,{
         "id": 19,
@@ -168,7 +168,7 @@
         "singer": "Dua Lipa",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/New-Rules_11zon.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Dua-Lipa-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/New Rules.mp3"
     },
     {
         "id": 20,
@@ -177,7 +177,7 @@
         "singer": "Selena Gomez",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Camilo.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Selena-Gomez-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Camilo.mp3"
     }
     ,{
         "id": 21,
@@ -185,8 +185,8 @@
         "songDescrption": "BERWYN - WRONG ONES",
         "singer": "BERWYN",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/WRONG-ONES.webp?raw=true",
-        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/WRONG-ONES.webp?raw=true",
-        "url": ""
+        "poster": "https://github.com/ProNabowy/music-app-img/blob/main/BERWYN-removebg-preview.webp?raw=true",
+        "url": "./songs/WRONG ONES.mp3"
     }
     ,{
         "id": 22,
@@ -195,7 +195,7 @@
         "singer": "Selena Gomez",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Boyfriend.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Selena-Gomez-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Boyfriend.mp3"
     }
     ,{
         "id": 23,
@@ -204,7 +204,7 @@
         "singer": "Chainsmokers",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Dont-Let-Me-Down.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/chainsmokers-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Don't Let Me Down.mp3"
     },{
         "id": 24,
         "songName": "Zara Larsson - Lush Life",
@@ -212,7 +212,7 @@
         "singer": "Zara Larsson",
         "sm-img": "https://i.ytimg.com/vi/tD4HCZe-tew/default.jpg",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Zara-Larsson-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Lush Life.mp3"
     },
     {
         "id": 25,
@@ -221,6 +221,6 @@
         "singer": "Selena Gomez",
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/D%C3%A1melo.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/Selena-Gomez-removebg-preview.webp?raw=true",
-        "url": ""
+        "url": "./songs/Dámelo To.mp3"
     }
 ]
