@@ -227,8 +227,9 @@
         "sm-img": "https://github.com/ProNabowy/music-app-img/blob/main/Dont-Let-Me-Down.webp?raw=true",
         "poster": "https://github.com/ProNabowy/music-app-img/blob/main/chainsmokers-removebg-preview.webp?raw=true",
         "url": "https://github.com/ProNabowy/music-app-img/blob/main/Don't%20Let%20Me%20Down.mp3?raw=true",
-        "bg-poster": "https://github.com/ProNabowy/music-app-img/blob/main/Don't%20Let%20Me%20Down-bg-poster.webp?raw=true"
-       },{
+        "bg-poster": "https://raw.githubusercontent.com/ProNabowy/music-app-img/main/Don't%20Let%20Me%20Down-bg-poster.webp"
+       }
+       ,{
         "id": 24,
         "songName": "Zara Larsson - Lush Life",
         "songDescrption": "I live my day as if it was the last Live my day as if there was no past",
